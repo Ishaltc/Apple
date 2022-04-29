@@ -1,0 +1,351 @@
+*{
+    margin: 0;
+    box-sizing: 0;
+    padding: 0;
+    font-family:sans-serif;
+   
+}
+
+.headingitems{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+header{
+    position: fixed;
+    padding: 13px ;
+    display: flex;
+    justify-content: center;
+    background-color: rgba(0,0,0,0.8);
+    width: 100%;
+    z-index: 100;
+}
+.Sample{
+padding-left: 46px;
+color: #f5f5f7;
+font-size: 12px;
+text-decoration: none;
+
+}
+i{
+    color: #f5f5f7;
+    width: 14px;
+    padding-left: 30px;
+}
+.emi{
+    text-align: center;
+    padding: 12px;
+    font-size: 14px;
+    color: rgba(0,0,0,0.8);
+    background-color: #fbfbfd;
+}
+.emi p{
+    font-size: 14 px;
+    color: rgba(0,0,0,0.8);
+    padding: 0%;
+}
+.emi p a{
+color: #0066cc;
+text-decoration: none;
+
+}
+.pro13{
+    text-align: center;
+
+
+}
+.pro13 a {
+   
+    text-decoration: none;
+    font-size: 21px;
+    line-height: 1.381;
+    font-weight: 400;
+   
+}
+h1{
+   padding-top: 40px;
+   font-size: 52px;
+}
+h4{
+    font-size: 30px;
+    padding-bottom: 20px;
+    
+}
+.pro13 a{
+
+    word-spacing: 5px;
+    color: #0066cc;
+    
+}
+.buy a{
+   
+    text-decoration: none;
+}
+.New{
+    text-align: center;
+    }  
+  .New h3{
+        font-weight: 200;
+        padding-top: 30px;
+        font-size: 20px;
+        
+}
+
+.New h1{
+padding-top: 0%;
+    font-size: 52px;
+  
+}
+.IphoneSe{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}.New h2{
+    font-weight: 400;
+    font-size: 28px;
+    padding-top: 15px;
+    color: #1d1d1f;
+    padding-bottom: 15px;
+}.New a{
+    color: #0066cc;
+    text-decoration: none;
+    text-align: center;
+    padding-top: 10px;
+    font-size: 21px;
+}
+ .Phone{
+     padding-bottom: 20px;
+ } 
+ 
+ .Ipad1{
+ background-image: url("Image/app-background.PNG");
+ width:100%;
+height: 560;
+padding: 300px 250px;
+}
+.Ipad1 a{
+    text-decoration: none;
+    color:#0066cc
+ }  
+.Wwd{
+    /* background-image: url(Image/WWDapple.png); */
+    margin-top: 10px;
+    margin-left: 10px;
+    position:relative;
+    
+
+}.Wwd a{
+  font-size: medium;
+  color: #0066cc;
+  text-decoration: none;
+  position: absolute;
+  bottom: 50px;
+  padding-left: 270px;
+ 
+}
+.Row{
+    display: flex;
+    
+}
+.watch{
+    
+    position:relative;
+
+
+}
+ .watch1 a{
+    position:absolute;
+    padding: 253px 266px;
+    bottom: 396px;
+    text-decoration: none;
+    text-align: center;
+    color: #2997ff;
+    text-align: center;
+    padding-bottom: 10px;
+
+} 
+.watch2 a{
+    position:absolute;
+    padding: 258px 377px;
+    bottom: 150px;
+    text-decoration: none;
+    text-align: center;
+    color: #2997ff;
+    text-align: center;
+}
+.Row1{
+    display: flex;
+}
+.Tv{
+    position: relative;
+    padding-right: 15px;
+
+}.Tv1 a{
+    position: absolute;
+    bottom: 50px;
+    color: #2997ff;
+    padding: 361px 225px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 17px;
+    font-weight: 400 ;
+}
+.Tv2 a{
+    position: absolute;
+    bottom: 150px;
+    color: #2997ff;
+    padding: 261px 337px;
+    text-align: center;
+    text-decoration: none;
+padding-inline-end: 50px;
+font-size: 17px;
+font-weight: 400;
+}
+ .Studio{
+position: relative;
+    }
+
+.std a{
+
+   position:absolute;
+    padding: 253px 266px;
+    bottom: 396px;
+    text-decoration: none;
+    text-align: center;
+    color: #2997ff;
+    text-align: center;
+    padding-bottom: 10px;
+
+
+}
+.std1 a{
+    position:absolute;
+    padding: 258px 377px;
+    bottom: 150px;
+    text-decoration: none;
+    text-align: center;
+    color: #2997ff;
+    text-align: center;
+
+}
+.Row2{
+    display: flex;
+}
+.Ipod{
+    position: relative;
+    padding-right:15px;
+
+}.Ipod a{
+    position:absolute;
+    padding: 218px 290px;
+    bottom: 371px;
+    text-decoration: none;
+    text-align: center;
+    color: #2997ff;
+    text-align: center;
+    padding-bottom: 10px;
+    
+}
+.Stream{
+    position: relative
+}
+   .Stream a{
+    bottom: 37px;
+    position: absolute;
+    margin-top: 10px;
+    margin-left: 10px;
+     padding: 14px 261px;
+     color:#2997ff;
+     text-decoration: none;
+   }
+   .Play{
+      position: absolute;
+      padding:7px 372px;
+      bottom:44px; 
+      color:#2997ff;
+   
+   }
+  
+   
+   .para{
+       background-color: #f5f5f7;
+       padding-top: 20px;
+justify-content: center;
+margin-left: 20px;
+font-size: 12px;
+padding-left: 120px;
+padding-right: 120px;
+padding-bottom: 30px;
+
+   }
+   
+     
+    .underline{
+        display: flex;
+        justify-content: center; 
+        padding-bottom: 10px;
+        background-color: #f5f5f7;
+    }
+   
+   .line{
+       size: 40;
+       width:71%;
+      border-bottom: 1px solid #1d1d1f;
+       padding-left: 120px;
+       border-left-width: 90%;
+   }
+   .flooter1{
+       background-color: #f5f5f7;
+       
+       width: 100%;
+       height: 400px;
+       display: flex; 
+        justify-content: center;
+   }
+    .topics1 a{
+        font-size: 12px;
+    }  
+    .topics2 {
+    
+    padding-left: 94px;
+    
+    }
+    .topics2 a{
+        font-size: 12px;
+    }
+
+
+.topics3 a{
+    font-size: 12px;
+}
+.topics4 {
+    padding-left: 55px;
+    
+  
+  padding-right: 64px;
+}
+.topics4 a{
+    font-size: 12px;
+}
+.topics5{
+    padding-left: 180x;
+   
+}
+.topics5 a{
+    font-size: 12px;
+}
+.final{
+background-color: #f5f5f7;
+padding-left: 180px;
+       border-left-width: 90%;
+       font-size: 12px;
+}
+.underline2 .line{
+   margin: auto;     
+}
+.last{
+    padding-left: 180px;
+    font-size: 12px;
+}.bottompara{
+    margin-top: 50px;
+}
